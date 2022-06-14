@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 基于 React +  Webpack 的音乐相册
 
 笔记仓库：[https://github.com/nnngu/LearningNotes](https://github.com/nnngu/LearningNotes)    
@@ -182,3 +183,7 @@ git subtree push --prefix=dist origin gh-pages
   [13]: https://www.github.com/nnngu/FigureBed/raw/master/2018/2/6/1517853295536.jpg
   [14]: https://www.github.com/nnngu/FigureBed/raw/master/2018/2/6/1517853662271.jpg
   [15]: https://www.github.com/nnngu/FigureBed/raw/master/2018/2/6/1517853876038.jpg
+=======
+# About the dist folder
+After building the dist version of your project, the generated files are stored in this folder. You should keep it under version control.
+>>>>>>> origin/gh-pages
